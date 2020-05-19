@@ -1,4 +1,4 @@
-# Modern JavaScript es5 Booklist Manager
+# Modern JavaScript es6 Booklist Manager
 
 es6 Class Syntax without any need for a frontend library
 
